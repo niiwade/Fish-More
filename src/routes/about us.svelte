@@ -1,3 +1,3 @@
 <svelte:head>
-    <title>Fish&More | About Us</title>
+	<title>Fish&More | About Us</title>
 </svelte:head>
